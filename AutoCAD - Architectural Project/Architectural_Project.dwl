@@ -1,3 +1,0 @@
-Enes
-DESKTOP-DUEGT8N 
-26 Aðustos 2025 Salý  19:15:23
