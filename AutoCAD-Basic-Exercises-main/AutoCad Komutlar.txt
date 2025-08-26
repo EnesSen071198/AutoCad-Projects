@@ -1,0 +1,30 @@
+Mause un tekerleğine basıp sayfa üzerinde hareket yapılıyor
+
+Tekerleğe 2 defa tıklayınca orijine gelir, projeye başlarken bunu yapmayı tavsiye etti
+
+Sol click e basılı tutarak belirli yer seçimi yapılır, basılı tutup seçerek tüm kısım seçilir
+
+ESC iptal tuşu, Enter ve Space onay tuşu
+
+UN yazıp Enter a basarak Units-Birim menüsü açılır: 
+	-Type: Decimal
+	-Precission: Virgülden sonra kaç sayı gelecek
+	-Incertion Scale: Birim seçimi -> milimeters
+	-Lighting: Işık seçimi -> İnernational
+
+Line Komutu : Düz çizgiler çekmek için kullanılır:
+	-Üst kısımdan seçilebilir, klavyeden line yazarak enter a tıklanır ve seçilir, L harfine tıklayıp enter a basıp seçilir!!!
+	-First point seçilir(mause ile veya kutuya değer girerek-kutuya değer girerken: değer,değer-> enter) ve çıkan kutuya mm olarak uzunluk yazılır
+
+Orta Mod - F8 : 0 dereceli şekiller çizmek için kullanılır- kare dikdörgen... derece girmeden direkt düz çizgi çekiyor 0 derece olacak şekilde
+	-klavyeden f8 tuşuna veya alt menüden seçerek orta mode seçilir
+	-f8 seçilir line a tıklanır şekil çizmeye başlanır
+
+
+
+Circle Komutu: Üst menüden veya klavyeden C tuşuna basıp enter a tıklayarak seçilir:
+	-Mause a tıkladıktan sonra yarı çap çizilir
+	
+Snap Ayarları: Nokta yakalama işlemi
+	-F3 ile aktif olur
+	-
